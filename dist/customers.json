@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1001,
+    "title": "Unable to login",
+    "description": "Customer cannot log in with registered email address.",
+    "customer": "Alice Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025/09/10"
+  },
+  {
+    "id": 1002,
+    "title": "Payment not processed",
+    "description": "Customer’s credit card payment keeps failing.",
+    "customer": "Mark Williams",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025/09/11"
+  },
+  {
+    "id": 1003,
+    "title": "Slow mobile app",
+    "description": "App is freezing frequently on Android devices.",
+    "customer": "Sophia Lee",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025/09/11"
+  },
+  {
+    "id": 1004,
+    "title": "Password reset email missing",
+    "description": "Customer did not receive the reset email.",
+    "customer": "David Green",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025/09/12"
+  },
+  {
+    "id": 1005,
+    "title": "Double charge",
+    "description": "Customer was charged twice for the same transaction.",
+    "customer": "Emily Brown",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025/09/12"
+  },
+  {
+    "id": 1006,
+    "title": "Feature request: Live chat",
+    "description": "Customer suggests adding live chat support.",
+    "customer": "Chris Evans",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025/09/13"
+  },
+  {
+    "id": 1007,
+    "title": "App crashes on checkout",
+    "description": "App crashes when placing an order.",
+    "customer": "Olivia Martinez",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025/09/13"
+  },
+  {
+    "id": 1008,
+    "title": "Refund not received",
+    "description": "Customer’s refund has not been processed after 7 days.",
+    "customer": "Liam Wilson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025/09/14"
+  },
+  {
+    "id": 1009,
+    "title": "Order delayed",
+    "description": "Customer’s package is still in transit beyond expected delivery date.",
+    "customer": "Isabella Davis",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025/09/14"
+  },
+  {
+    "id": 10010,
+    "title": "Incorrect order received",
+    "description": "Customer received the wrong product in the order.",
+    "customer": "Michael Scott",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025/09/15"
+  },
+  {
+    "id": 10011,
+    "title": "Website not loading",
+    "description": "Website shows server error on homepage.",
+    "customer": "Sophia Anderson",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025/09/15"
+  },
+  {
+    "id": 10012,
+    "title": "Request for billing statement",
+    "description": "Customer needs a copy of last month’s bill.",
+    "customer": "James Taylor",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025/09/16"
+  },
+  {
+    "id": 10013,
+    "title": "Coupon not working",
+    "description": "Customer reports that discount code is invalid.",
+    "customer": "Sophia Clark",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025/09/16"
+  },
+  {
+    "id": 10014,
+    "title": "Shipping address issue",
+    "description": "Customer cannot update shipping address after placing order.",
+    "customer": "Daniel Roberts",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025/09/17"
+  },
+  {
+    "id": 10015,
+    "title": "Feedback on new design",
+    "description": "Customer provides feedback about website UI changes.",
+    "customer": "Emma Thompson",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025/09/18"
+  }
+]
